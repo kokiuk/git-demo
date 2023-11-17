@@ -10,3 +10,6 @@ git commit
 git push
 
 ```
+
+## GitHub에서 추가한 내용
+
