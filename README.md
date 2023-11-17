@@ -1,4 +1,4 @@
-# Git Demo
+# 이 줄은 컴퓨터에서 바꿈
 
 GitHub 연습
 
